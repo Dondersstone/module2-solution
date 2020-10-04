@@ -144,7 +144,7 @@ margin-bottom: 5px
 	background-color: orange;
 	border: 1px solid black;
 	width: 100px;
-	position: relative;
+	position: absolute;
 }
 #box2 {
 	background-color: red;
