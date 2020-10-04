@@ -142,6 +142,7 @@ margin-bottom: 5px
 }
 #content {
 	background-color: : grey;
+	border: 1px solid black;
 }
 #p {
 	position: relative;
