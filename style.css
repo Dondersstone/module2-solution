@@ -129,14 +129,13 @@ body {
 	margin: 0;
 	padding: 0;
 }
-
 h1 {
 	margin-bottom: 15px;
 }
+
 h2 { 
 margin-bottom: 5px
 }
-
 #box {
 	background-color: yellow;
 	border: 1px solid black;
