@@ -154,9 +154,10 @@ float; left;
 	width: 100%
 }
 
-.box-container1 {
+#box {
 	position: relative;
 	border: 1px black;
+	width: 5px: 20px: 5px: 20px; 
 	background-color: orange;
 	color: black;
 }
