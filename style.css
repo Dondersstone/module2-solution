@@ -2,14 +2,13 @@
 box-sizing: border-box;
 margin: 0;
 padding: 0;
-font-family: fantasy;
 }
 
 /* Simple Responsive Framework. */
 
 .row {
 	background-color: gray;
-	border: 1px black solid;
+	border: 1px black;
 	position: relative;
 	}
 
@@ -153,6 +152,9 @@ float; left;
 }
 .col-sm-12 {
 	width: 100%
+}
+
+.box-cointainer {position: relative;
 }
 
 h2.color1 {
