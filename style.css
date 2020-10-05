@@ -7,8 +7,8 @@ padding: 0;
 /* Simple Responsive Framework. */
 
 .row {
-	background-color: gray;
 	border: 1px black;
+	background-color: gray;
 	position: relative;
 	}
 
