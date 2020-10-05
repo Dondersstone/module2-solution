@@ -154,7 +154,11 @@ float; left;
 	width: 100%
 }
 
-.box-cointainer {position: relative;
+.box-cointainer1 {
+	position: relative;
+	border: 1px black;
+	background-color: orange;
+	color: black;
 }
 
 h2.color1 {
