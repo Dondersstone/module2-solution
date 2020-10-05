@@ -154,12 +154,12 @@ float; left;
 	width: 100%
 }
 
-.box-container {
+#box {
 	border: 1px black;
-	position: relative;
-	width: 5px: 20px: 5px: 20px; 
 	background-color: orange;
 	color: black;
+	width: 5px: 20px: 5px: 20px; 
+	position: relative;
 }
 
 h2.color1 {
