@@ -25,11 +25,12 @@ p {
 	width: 33,33%;
 }
 
-h2.color1 {
+h2 {
 	border: 1px
 	background-color: orange;
 	color: black;
 	width: 20%;
+	position: absolute; top: 0; right: 0;
 }
 
 /****************** Large devices only ***************/
