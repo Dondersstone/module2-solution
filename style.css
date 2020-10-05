@@ -9,7 +9,7 @@ padding: 0;
 .row {
 	border: 1px black;
 	background-color: gray;
-	position: relative;
+	position: relative; 
 	}
 
 .heading {
@@ -154,9 +154,9 @@ float; left;
 	width: 100%
 }
 
-#box {
-	position: relative;
+.box-container {
 	border: 1px black;
+	position: relative;
 	width: 5px: 20px: 5px: 20px; 
 	background-color: orange;
 	color: black;
