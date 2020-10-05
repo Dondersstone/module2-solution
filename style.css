@@ -18,6 +18,12 @@ padding: 0;
 	text-align: center;
 }
 
+p {
+	border: 1px black;
+	background-color: gray;
+	color: black;
+}
+
 /****************** Large devices only ***************/
 
 @media (min-width: 992px) {
